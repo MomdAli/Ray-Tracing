@@ -1,7 +1,3 @@
-Great, let's use the information provided to create a comprehensive README file for your project.
-
----
-
 # Ray-Tracing
 
 This project demonstrates Ray Tracing implemented in multiple languages and libraries, including GLSL, Java, and Unity HLSL with C#.
