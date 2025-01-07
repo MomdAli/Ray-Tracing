@@ -27,9 +27,10 @@ Ensure you have the following installed on your system:
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to update the README file as necessary.
 
-## Preview
+### Preview
 
-![Samples](https://github.com/MomdAli/Ray-Tracing/blob/e19fc21aee2dd574408f30984582876d00485a3d/Unity%20HLSL/Assets/Screenshot%202024-09-17%20215248.png)
+![Preview 1](Unity/Assets/Preview-1.png)
+![Preview 2](Unity/Assets/Preview-2.png)
 
 ## License
 
